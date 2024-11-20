@@ -89,3 +89,15 @@ section {
 #submit:hover {
     background: #555;
 }
+
+/* Media Query */
+@media (max-width: 768px) {
+    #nav-bar {
+      flex-direction: column;
+      gap: 10px;
+    }
+  
+    #header-img {
+      width: 80px;
+    }
+  }
