@@ -44,4 +44,9 @@ body {
 .nav-link:hover {
     text-decoration: none;
     color: orangered;
+}
+
+/* Main Sections */
+main {
+    padding: 60px;
   }
