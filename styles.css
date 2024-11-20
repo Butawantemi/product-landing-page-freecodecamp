@@ -67,3 +67,12 @@ section {
 #form {
     margin-top: 20px;
 }
+
+#email {
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
