@@ -54,3 +54,11 @@ main {
 section {
     margin: 20px 0;
 }
+
+#video {
+    width: 100%;
+    max-width: 600px;
+    height: 340px;
+    display: block;
+    margin: 0 auto;
+  }
