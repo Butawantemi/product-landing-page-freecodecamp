@@ -62,3 +62,9 @@ section {
     display: block;
     margin: 0 auto;
 }
+
+/* Form */
+#form {
+    margin-top: 20px;
+  }
+  
