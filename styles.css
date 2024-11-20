@@ -93,11 +93,11 @@ section {
 /* Media Query */
 @media (max-width: 768px) {
     #nav-bar {
-      flex-direction: column;
-      gap: 10px;
+        flex-direction: column;
+        gap: 10px;
     }
-  
+
     #header-img {
-      width: 80px;
+        width: 80px;
     }
-  }
+}
