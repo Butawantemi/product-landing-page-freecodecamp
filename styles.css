@@ -29,4 +29,9 @@ body {
 
 #header-img {
     width: 100px;
+}
+
+#nav-bar {
+    display: flex;
+    gap: 20px;
   }
