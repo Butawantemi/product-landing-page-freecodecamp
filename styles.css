@@ -85,3 +85,7 @@ section {
     border-radius: 5px;
     cursor: pointer;
 }
+
+#submit:hover {
+    background: #555;
+  }
